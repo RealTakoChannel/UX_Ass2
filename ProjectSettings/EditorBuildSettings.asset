@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Yunlin Li/1.unity
+    path: Assets/Public Scene/1.unity
     guid: eff89ef5547338149963034c505cb075
   - enabled: 1
     path: Assets/Public Scene/Menu.unity
